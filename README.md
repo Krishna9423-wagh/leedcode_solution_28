@@ -60,5 +60,5 @@ Feel free to open an issue or submit a pull request if you spot any bugs or have
 
 ---
 <div align="center">
-<i>"First, solve the problem. Then, write the code." – John Johnson</i>
+<i>"First, solve the problem. Then, write the code." – Krishna Wagh</i>
 </div>
